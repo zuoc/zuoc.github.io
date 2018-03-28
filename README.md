@@ -1,1 +1,2 @@
-# zuoc.github.io
+Wiki 用于记录工作、学习总结，个人生活感悟等内容
+Issues 用于互相学习交流，以及对 Wiki 内容的评论等
